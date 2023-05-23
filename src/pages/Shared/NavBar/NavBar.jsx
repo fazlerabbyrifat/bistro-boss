@@ -6,6 +6,9 @@ const NavBar = () => {
     <li>
         <Link to='/'>Home</Link>
     </li>
+    <li>
+      <Link to='/menu'>Our Menu</Link>
+    </li>
     </>
   return (
     <div className="navbar fixed z-30 opacity-30 max-w-screen-xl bg-black text-white">
